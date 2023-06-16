@@ -56,13 +56,13 @@ body {
     color: #ffffff;
     font-family: 'Space Grotesk', sans-serif;
     font-weight: 100;
-    font-size: 8vw;
+    font-size: 7vw;
     letter-spacing: 0.2em;
 }
 
 @media screen and (min-width: 560px) {
     .coming-soon {
-        font-size: 45px;
+        font-size: 40px;
         letter-spacing: 0.2em;
     }
 }
